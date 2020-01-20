@@ -1,2 +1,35 @@
 Inscription des log dans le fichier texte.
 log1=Créationation de la fonction multiplication dans le fichier exercice.php et création d'un fichier texte vide.
+
+commit d5e38216bfed95380fa51a2717e2aa981d7485b2 (HEAD -> master)
+Author: Armandtta <tchiofouoarmand@gmail.com>
+Date:   Mon Jan 20 16:00:03 2020 +0100
+
+    Correction des param<C3><A8>tres d'appel <C3><A0> la fonction: Table de multiplication d'un nombre x dans une borne
+donn<C3><A9>e. [a,b]
+
+commit 2b936015fc144d983066532466b22be2256370b1
+Author: Armandtta <tchiofouoarmand@gmail.com>
+Date:   Mon Jan 20 15:42:29 2020 +0100
+
+    Am<C3><A9>lioration de l'affichage du r<C3><A9>sultat de la fonction multiplication du fichier exercice.
+
+commit 0fea2b53b46ce604b1667f96548b1c9dda1ecd5f
+Author: Armandtta <tchiofouoarmand@gmail.com>
+Date:   Mon Jan 20 15:37:28 2020 +0100
+
+    Modification de la fonction multiplication du fichier exercice: table de multiplication d'un nombre x de 0 jusqu'
+<C3><A0> une borne y
+
+commit 2734ff8a75889f322c361ef25a22aabf14886c20 (origin/master, origin/HEAD)
+Author: Armandtta <tchiofouoarmand@gmail.com>
+Date:   Mon Jan 20 15:21:40 2020 +0100
+
+    Cr<C3><A9>ation de la fonction multiplication dans le fichier exercice.php et cr<C3><A9>ation d'un fichier texte vid
+e.
+
+commit 40ec88f7f7bee354b9045893abc2e732d372e646
+Author: TSANGNING TCHIOFOUO ARMAND <60098467+armandtta@users.noreply.github.com>
+Date:   Mon Jan 20 15:13:11 2020 +0100
+
+    Initial commit
