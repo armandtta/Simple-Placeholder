@@ -1,0 +1,2 @@
+Inscription des log dans le fichier texte.
+log1=Créationation de la fonction multiplication dans le fichier exercice.php et création d'un fichier texte vide.
