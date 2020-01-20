@@ -1,10 +1,11 @@
 // Affichez à l’écran la table de multiplication jusqu’à 12 x 12.
-<?php  function Multiplication ($n)
+<?php  function Multiplication ($n,$n)
  {
-    for ($i = 0; $i <=12; $i++)
+    for ($i = 0; $i <=$n; $i++)
        {
-        echo $n. " X ".$i." = ".$n * $i . '<br />';
+        echo $n. " X ".$i." = ".$n * $i ;
        }       
  }
 ?>
+
 
